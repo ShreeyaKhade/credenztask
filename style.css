@@ -4,7 +4,6 @@ body{
 }
 .wrapper{
 	width: 100%;
-	/*height: all;*/
 }
 
 @media screen and (min-width: 700px){
